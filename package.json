@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build":"rm -rf dist && mkdir dist && node index.js"
+    "build":"rm -rf dist && mkdir dist && node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
