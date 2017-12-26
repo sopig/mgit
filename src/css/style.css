@@ -132,9 +132,10 @@ pre {
 }
 
 pre code {
-    font-size: 11px;
+    font-size: 13px;
     padding: 0;
     color: #9feaf9;
+    line-height: 26px;
 }
 
 sup {
